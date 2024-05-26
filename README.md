@@ -1,3 +1,4 @@
 # code-eat-sleep
-This is my first github repository
-Author- Anshika Sharma
+This is my first github repository.
+<br>
+Author- Anshika Sharma.
